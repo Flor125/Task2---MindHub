@@ -1,0 +1,84 @@
+.h1{
+    position:relative; left: 402px;
+    font-weight: bold;
+    font-size: 40px ;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.image1{
+    width: 1300px;
+    height: 400px;
+    position: sticky;
+    vertical-align: text-bottom; 
+}
+
+.contenedor{
+    position: relative;
+    display: inline-block;
+}
+
+.texto-encima{
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: rgb(144, 226, 247); width: 100%;
+    color: rgb(2, 13, 15);
+    font-size: 20px;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.indice1{
+    position: relative; left: 490px;
+    padding: 3px 3px; 
+    background-color:greenyellow; 
+    color: #ffffff; 
+    text-transform: uppercase;
+    border: 1px solid black;
+    box-shadow: 2px 2px rgba(0,0,0,0.5);
+}
+
+.indice2{
+    position: relative; left: 490px;
+    padding: 3px 3px; 
+    background-color:greenyellow; 
+    color: #ffffff; 
+    text-transform: uppercase;
+    border: 1px solid black;
+    box-shadow: 2px 2px rgba(0,0,0,0.5);
+}
+
+.indice3{
+    position: relative; left: 490px;
+    padding: 3px 3px; 
+    background-color:greenyellow; 
+    color: #ffffff; 
+    text-transform: uppercase;
+    border: 1px solid black;
+    box-shadow: 2px 2px rgba(0,0,0,0.5);
+}
+
+.indices{
+    position: relative; left: 490px;
+    padding: 3px 3px; 
+    background-color: #2e518b; 
+    color: #ffffff; 
+    text-transform: uppercase;
+    border: 1px solid black;
+    box-shadow: 2px 2px rgba(0,0,0,0.5);
+}
+
+div.seccion{
+    
+    position: relative; left: 465px;
+    top: -100px;
+    width: 960px;
+    padding: 5px;
+    text-align: justify;
+}
+
+.left{
+    position: relative; left: 302px;
+    top: -485px;
+}
